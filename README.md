@@ -1,2 +1,2 @@
 # apexpay-dashboard
-Tema del proyecto: Hibrido
+Tema del proyecto: Hibrido.
